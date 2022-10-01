@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893402922288",
+    "project_id": "sa-neek",
+    "storage_bucket": "sa-neek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893402922288:android:6839f45ee3227817d39cf5",
+        "android_client_info": {
+          "package_name": "com.example.maps_abdoukhadre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893402922288-0sukes2nmepi31m5khldcg98d43t4uvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37lIldHRVhX_Ecr0XW0tg3Tb9R3Qrwmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893402922288-0sukes2nmepi31m5khldcg98d43t4uvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

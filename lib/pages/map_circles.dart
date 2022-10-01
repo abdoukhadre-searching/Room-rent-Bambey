@@ -1,6 +1,7 @@
-import 'package:day41/model/map_style.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
+
+import '../model/map_style.dart';
 
 class MapCircles extends StatefulWidget {
   const MapCircles({ Key? key }) : super(key: key);
